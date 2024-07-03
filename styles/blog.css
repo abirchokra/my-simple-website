@@ -2,9 +2,12 @@ div{
     background-color: tomato;
     padding: 10px;
     margin-bottom: 10px;
-    width: 100px;
+    width: 500px;
+    margin-bottom: 20px;
     
 }
 .heading{
     text-align: center;
 }
+
+
